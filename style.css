@@ -1,0 +1,31 @@
+/* <uniquifier>: Use a unique and descriptive class name
+ <weight>: Use a value from 200 to 800*/
+
+body {
+    background-color: black;
+    font-family: "Manrope", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    color: aliceblue;
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30px;
+}
+
+h1 {
+    font-size: 56px;
+}
+
+h2 {
+    font-size: 26px;
+}
+
+p {
+    font-size: 16px;
+}
